@@ -1,5 +1,4 @@
-header{
-  display:flex;
-  background-color: gray;
+body{
+  background-color: black;
+  color:white;
 }
-section{background-color: lightgray;}
